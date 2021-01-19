@@ -1,1 +1,1 @@
-install.packages(c('tidyverse', 'ggrepel', 'patchwork'))
+install.packages(c('tidyverse', 'afex', 'emmeans', 'Hmisc'))
